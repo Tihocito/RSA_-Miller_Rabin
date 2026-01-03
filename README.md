@@ -1,4 +1,4 @@
-# RSA_-Miller_Rabin
+# RSA_Miller_Rabin
 Dự án mã hóa RSA hoàn chỉnh kết hợp lõi toán học mạnh (Nhóm A) với giao diện thực tiễn (Nhóm B).  
 Chức năng chính:
 Sinh khóa RSA: Từ 512-bit đến 4096-bit, hỗ trợ strong prime
